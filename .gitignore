@@ -1,2 +1,8 @@
 cache/
 out/
+node_modules/
+lib/
+broadcast/
+remappings.txt
+tempWork/
+
